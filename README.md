@@ -67,4 +67,4 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-- <a href="https://www.linkedin.com/in/1010nishant/" target="blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/gregory-gonzalez-martinez/" target="blank">LinkedIn</a>
